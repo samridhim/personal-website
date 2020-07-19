@@ -17,4 +17,6 @@ There are a LOT of blogs already written on this topic. Here is a list of the to
 
 4.  [Vijay Chidambaram] (https://medium.com/@vijayc/how-to-pick-a-grad-school-for-a-phd-in-computer-science-a5ce7dceb246) is a System's Professor at UT Austin. He covers all aspects of picking a grad school based on factors like advisor suitability, research match, location, etc. These factors are a LOT more important than the usual "popularity based" ranking that we see on many ranked lists like US News, QS, Times, etc.
 
-5. [This] (http://precog.iiitd.edu.in/graduate-school-faqs.html)blog covers almost all aspects of grad school applications, from an Indian Perspective. Check out the videos mentioned on the bottom with UChicago Prof. Ben Zhao! Very informative.
+5. [This] (https://precog.iiitd.edu.in/graduate-school-faqs.html) blog covers almost all aspects of grad school applications, from an Indian Perspective. Check out the videos mentioned on the bottom with UChicago Prof. Ben Zhao! Very informative.
+
+6. [Go to the Support Web Site](https://support.west-wind.com)
