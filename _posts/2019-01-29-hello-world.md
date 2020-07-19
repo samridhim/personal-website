@@ -1,5 +1,5 @@
 ---
-title: "Applying for Graduate School - My 2¢"
+title: "Applying for CS Graduate School - My 2¢"
 published: true
 ---
 
