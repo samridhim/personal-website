@@ -3,7 +3,7 @@ title: "Applying for Graduate School - My 2¢"
 published: true
 ---
 
-**Hello World!**,
+**Hello World!**
 
 The graduate school application process was one of the most time consuming, mentally exhaustive periods of my life. In this blog post, I have compiled a list of resources that will help you as much as it helped me, to write a proper application, to select graduate schools based on factors other than "popularity / ranking" among other things.
 
@@ -21,11 +21,11 @@ There are a LOT of blogs already written on this topic. Here is a list of the to
 
 
 Rank Lists based on popularity / surveys:
-1. US News
-2. QS 
-2. Times 
+1. [US News](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings)
+2. [QS](https://www.topuniversities.com/university-rankings/university-subject-rankings/2020/computer-science-information-systems) 
+2. [Times](https://www.timeshighereducation.com/world-university-rankings/2020/world-ranking#!/page/0/length/25/locations/US/subjects/3081/sort_by/rank/sort_order/asc/cols/stats) 
 
 Rank Lists based on research output / metrics:
-1. CSRankings 
-2. CS Metrics
-3. NRC Rankings
+1. [CSRankings](https://csrankings.org)
+2. [CS Metrics](http://csmetrics.org/)
+3. [NRC Rankings](https://www.chronicle.com/article/NRC-Rankings-Overview-/124721/)
