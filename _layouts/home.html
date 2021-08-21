@@ -4,10 +4,6 @@
   <div class="container-lg py-6 p-responsive text-center">
     {% include masthead.html metadata=true %}
 
-    <div {% if site.style == 'dark' %}class="text-white"{% endif %}>
-      Hello World!
-    </div>
-
     {% unless posts_total == 0 %}
       <div class="my-6">
         {% include thoughts.html %}
